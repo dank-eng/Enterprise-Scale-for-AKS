@@ -6,6 +6,8 @@ metadata:
   description: Create ES for AKS LZ.
   annotations:
     github.com/project-slug: dank-eng/Enterprise-Scale-for-AKS
+    backstage.io/techdocs-ref: dir:.
+
 spec:
   type: service
   owner: user:dank-eng

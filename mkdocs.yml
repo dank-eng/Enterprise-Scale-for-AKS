@@ -1,7 +1,7 @@
 site_name: 'Enterprise-Scale-for-AKS'
 
 nav:
-  - Home: Secure-Baseline/README.md
+  - Home: Scenarios/Secure-Baseline/README.md
 
 plugins:
   - techdocs-core
